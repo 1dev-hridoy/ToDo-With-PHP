@@ -2,6 +2,14 @@
 
 A modern, secure, and user-friendly todo application built with PHP and MySQL, featuring user authentication and profile management.
 
+## Screenshot
+
+![Screenshot 2025-02-09 164050](https://github.com/user-attachments/assets/88902a0a-5548-4994-9bad-ab080b5ce14f)
+![Screenshot 2025-02-09 164129](https://github.com/user-attachments/assets/e9c18c6a-0e43-4fc7-a512-cff0aafce12a)
+![Screenshot 2025-02-09 164223](https://github.com/user-attachments/assets/38a895a4-ec16-471b-9368-cf2e3a0caeca)
+
+
+
 ## Features
 
 ### User Authentication
